@@ -1,0 +1,11 @@
+{
+    "title":"vite-logo",
+    "rating":{"rate":4.2, "ratings":1245, "review":5098},
+    "price":6867,
+    "offers":[
+        "HDFC Bank offer 5% of on HDFC Credit card",
+        "SBI Bank offer 5% of on SBI Credit card",
+        "UNION Bank offer 5% of on UNION Credit card"
+    ],
+    "image":"vite.svg"
+}
